@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello uniapp_demo1'
+				title: 'Hello uniapp_demo'
 			}
 		},
 		onLoad() {
